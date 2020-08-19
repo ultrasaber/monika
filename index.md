@@ -5,7 +5,7 @@ title: "Monika - DNS blocklist archive"
 
 # Monika - DNS blocklist archive
 
-This site hosts a few archived blocklists from across the internet, including squidblacklist.org, hosts-file.net, abuse.ch (zeustracker/ranswomwaretracker), and notrack. Most (if not all) of these lists are no longer available at their original locations and were recovered thanks to the [Wayback Machine](https://archive.org/).
+This site hosts a few archived blocklists from across the internet, including squidblacklist.org, hosts-file.net, abuse.ch (zeustracker/ransomwaretracker), and notrack. Most (if not all) of these lists are no longer available at their original locations and were recovered thanks to the [Wayback Machine](https://archive.org/).
 
 [View the blocklists here](/blocklists).
 
