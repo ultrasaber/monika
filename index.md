@@ -9,5 +9,5 @@ This site hosts a few archived blocklists from across the internet, including sq
 
 [View the blocklists here](/blocklists).
 
-This site and hosted blocklists are maintained on [Github](http://www.example.org).
+This site and hosted blocklists are maintained on [Github](https://github.com/ultrasaber/monika).
 You can also get in touch with me at [sup@rubesty.io](mailto:sup@rubesty.io) for any questions or issues.
